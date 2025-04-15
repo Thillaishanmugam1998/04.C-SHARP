@@ -1,0 +1,63 @@
+✅ What is a Framework?
+A framework is a pre-defined structure that provides a foundation and set of rules for building applications.
+It often calls your code (known as Inversion of Control).
+
+🔧 Think of it like:
+A house skeleton already built — you just fill in the rooms (your code). You follow the builder's rules.
+--------------------------------------------------------------------------------------------------------------------
+✅ What is a Library?
+A library is a collection of reusable functions or tools that you call when needed.
+You control the flow of execution.
+
+🔧 Think of it like:
+A toolbox — you pick and use the tools you need, whenever you want.
+--------------------------------------------------------------------------------------------------------------------
+What is .NET?
+.NET is a free, open-source, cross-platform development framework created by Microsoft for building applications across various platforms, 
+including Windows, macOS, Linux, Android, iOS, and web browsers. It provides a unified programming model, libraries, and runtime to develop secure, high-performance applications.
+--------------------------------------------------------------------------------------------------------------------
+📜 Evolution/History of .NET
+Here’s a brief timeline of .NET’s evolution:
+
+.NET Framework (2002–2019):
+The original .NET platform, designed for Windows-only applications.
+Included Windows Forms, ASP.NET for web apps, and ADO.NET for data access.
+Monolithic, tightly coupled to Windows, with versions like 1.0, 2.0, 3.5, 4.8.
+.NET Core (2016–2020):
+A lightweight, modular, open-source, and cross-platform rewrite of .NET Framework.
+Supported Linux, macOS, and Windows.
+Versions: .NET Core 1.0, 2.0, 3.1 (LTS).
+Modern .NET (2020–present):
+Starting with .NET 5 (2020), Microsoft unified .NET Core, .NET Framework, and other .NET implementations under one name: .NET.
+Annual releases:
+.NET 5 (2020): Unified platform, improved performance.
+.NET 6 (2021): Long-term support (LTS), added minimal APIs, hot reload.
+.NET 7 (2022): Enhanced performance, native AOT compilation.
+.NET 8 (2023): LTS, further optimizations, Blazor hybrid support.
+.NET 9 (2024): Continued improvements, cloud-native focus.
+--------------------------------------------------------------------------------------------------------------------
+Core Components of .NET
+CLR (Common Language Runtime):
+The heart of .NET, responsible for executing code.
+Manages memory, thread execution, security, and compilation.
+Example: When you run a C# program, CLR converts it to machine code using JIT compilation.
+CTS (Common Type System):
+Defines how types (e.g., int, string, custom classes) are declared and used.
+Ensures language interoperability (e.g., C# and VB.NET can share types).
+Example: A string in C# is the same as String in F#.
+CLS (Common Language Specification):
+A subset of CTS rules that ensures code written in one .NET language (e.g., C#) can be used by another (e.g., F#).
+Example: CLS-compliant code avoids features unique to one language.
+Assemblies:
+Compiled code units (.dll or .exe) containing metadata and IL (Intermediate Language).
+Example: A library like System.Text.Json.dll is an assembly.
+JIT (Just-In-Time Compilation):
+Converts IL code to native machine code at runtime for execution.
+Example: When you run a C# app, JIT optimizes code for your specific CPU.
+Garbage Collection (GC):
+Automatically manages memory by reclaiming unused objects.
+Example: If you create a List<int> and stop using it, GC frees the memory.
+Base Class Library (BCL):
+A collection of reusable classes, like System.String, System.IO, and System.Collections.
+Example: Using Console.WriteLine() comes from the BCL.
+--------------------------------------------------------------------------------------------------------------------
