@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G808gXtr92RjJlVqOobZUfzGcHjnD3DYNFoh7BYmKo4vuDYn4nJ8zEYNXYjbdx0IG/k3oKye7jf57n5esVgR4w==",
+  "success": true,
+  "projectFilePath": "D:\\04_Git Repository\\01.C-SHARP\\01_DATA_TYPES\\03_CONTROL_FLOW\\03_CONTROL_FLOW.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TT_1714\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
