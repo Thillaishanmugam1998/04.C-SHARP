@@ -1,0 +1,14 @@
+D:\04_Git Repository\01.C-SHARP\01_DATA_TYPES\10_PROPERTIES\obj\Debug\netcoreapp3.1\10_PROPERTIES.csproj.AssemblyReference.cache
+D:\04_Git Repository\01.C-SHARP\01_DATA_TYPES\10_PROPERTIES\obj\Debug\netcoreapp3.1\10_PROPERTIES.GeneratedMSBuildEditorConfig.editorconfig
+D:\04_Git Repository\01.C-SHARP\01_DATA_TYPES\10_PROPERTIES\obj\Debug\netcoreapp3.1\10_PROPERTIES.AssemblyInfoInputs.cache
+D:\04_Git Repository\01.C-SHARP\01_DATA_TYPES\10_PROPERTIES\obj\Debug\netcoreapp3.1\10_PROPERTIES.AssemblyInfo.cs
+D:\04_Git Repository\01.C-SHARP\01_DATA_TYPES\10_PROPERTIES\obj\Debug\netcoreapp3.1\10_PROPERTIES.csproj.CoreCompileInputs.cache
+D:\04_Git Repository\01.C-SHARP\01_DATA_TYPES\10_PROPERTIES\bin\Debug\netcoreapp3.1\10_PROPERTIES.exe
+D:\04_Git Repository\01.C-SHARP\01_DATA_TYPES\10_PROPERTIES\bin\Debug\netcoreapp3.1\10_PROPERTIES.deps.json
+D:\04_Git Repository\01.C-SHARP\01_DATA_TYPES\10_PROPERTIES\bin\Debug\netcoreapp3.1\10_PROPERTIES.runtimeconfig.json
+D:\04_Git Repository\01.C-SHARP\01_DATA_TYPES\10_PROPERTIES\bin\Debug\netcoreapp3.1\10_PROPERTIES.runtimeconfig.dev.json
+D:\04_Git Repository\01.C-SHARP\01_DATA_TYPES\10_PROPERTIES\bin\Debug\netcoreapp3.1\10_PROPERTIES.dll
+D:\04_Git Repository\01.C-SHARP\01_DATA_TYPES\10_PROPERTIES\bin\Debug\netcoreapp3.1\10_PROPERTIES.pdb
+D:\04_Git Repository\01.C-SHARP\01_DATA_TYPES\10_PROPERTIES\obj\Debug\netcoreapp3.1\10_PROPERTIES.dll
+D:\04_Git Repository\01.C-SHARP\01_DATA_TYPES\10_PROPERTIES\obj\Debug\netcoreapp3.1\10_PROPERTIES.pdb
+D:\04_Git Repository\01.C-SHARP\01_DATA_TYPES\10_PROPERTIES\obj\Debug\netcoreapp3.1\10_PROPERTIES.genruntimeconfig.cache

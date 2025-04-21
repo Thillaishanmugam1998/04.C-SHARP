@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "06_INPUT_OUTPUT_EXAMPLE/1.0.0": {
+        "runtime": {
+          "06_INPUT_OUTPUT_EXAMPLE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "06_INPUT_OUTPUT_EXAMPLE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

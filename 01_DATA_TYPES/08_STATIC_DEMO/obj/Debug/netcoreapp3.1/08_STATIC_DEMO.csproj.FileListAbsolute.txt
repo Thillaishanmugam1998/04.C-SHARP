@@ -1,0 +1,13 @@
+D:\04_Git Repository\01.C-SHARP\01_DATA_TYPES\08_STATIC_DEMO\bin\Debug\netcoreapp3.1\08_STATIC_DEMO.exe
+D:\04_Git Repository\01.C-SHARP\01_DATA_TYPES\08_STATIC_DEMO\bin\Debug\netcoreapp3.1\08_STATIC_DEMO.deps.json
+D:\04_Git Repository\01.C-SHARP\01_DATA_TYPES\08_STATIC_DEMO\bin\Debug\netcoreapp3.1\08_STATIC_DEMO.runtimeconfig.json
+D:\04_Git Repository\01.C-SHARP\01_DATA_TYPES\08_STATIC_DEMO\bin\Debug\netcoreapp3.1\08_STATIC_DEMO.runtimeconfig.dev.json
+D:\04_Git Repository\01.C-SHARP\01_DATA_TYPES\08_STATIC_DEMO\bin\Debug\netcoreapp3.1\08_STATIC_DEMO.dll
+D:\04_Git Repository\01.C-SHARP\01_DATA_TYPES\08_STATIC_DEMO\bin\Debug\netcoreapp3.1\08_STATIC_DEMO.pdb
+D:\04_Git Repository\01.C-SHARP\01_DATA_TYPES\08_STATIC_DEMO\obj\Debug\netcoreapp3.1\08_STATIC_DEMO.GeneratedMSBuildEditorConfig.editorconfig
+D:\04_Git Repository\01.C-SHARP\01_DATA_TYPES\08_STATIC_DEMO\obj\Debug\netcoreapp3.1\08_STATIC_DEMO.AssemblyInfoInputs.cache
+D:\04_Git Repository\01.C-SHARP\01_DATA_TYPES\08_STATIC_DEMO\obj\Debug\netcoreapp3.1\08_STATIC_DEMO.AssemblyInfo.cs
+D:\04_Git Repository\01.C-SHARP\01_DATA_TYPES\08_STATIC_DEMO\obj\Debug\netcoreapp3.1\08_STATIC_DEMO.csproj.CoreCompileInputs.cache
+D:\04_Git Repository\01.C-SHARP\01_DATA_TYPES\08_STATIC_DEMO\obj\Debug\netcoreapp3.1\08_STATIC_DEMO.dll
+D:\04_Git Repository\01.C-SHARP\01_DATA_TYPES\08_STATIC_DEMO\obj\Debug\netcoreapp3.1\08_STATIC_DEMO.pdb
+D:\04_Git Repository\01.C-SHARP\01_DATA_TYPES\08_STATIC_DEMO\obj\Debug\netcoreapp3.1\08_STATIC_DEMO.genruntimeconfig.cache
