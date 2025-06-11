@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q7gNP2bVfvojRTPZk9qe3WIr39nuic3JPjlDVMCHQIJxfElM3smNNAYkfvL99buiHGD7fGuwY3U+bFFI28nJFA==",
+  "success": true,
+  "projectFilePath": "T:\\02.GIT REPO\\04.C-SHARP\\0.TASK\\TASK-1\\SimpleBankingApp\\SimpleBankingApp\\SimpleBankingApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThillaiShanmugam1714\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

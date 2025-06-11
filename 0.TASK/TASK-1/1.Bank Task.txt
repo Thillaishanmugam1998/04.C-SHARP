@@ -1,0 +1,134 @@
+## Challenge Title:
+
+**Simple Banking Console Application in C#**
+
+---
+
+## Problem Statement:
+
+Create a simple **console-based banking application** using C#. The application allows a user to log in using an account number and perform basic banking operations such as viewing account details, depositing money, and withdrawing money.
+
+You must use and demonstrate the following C# concepts in the solution:
+
+* Data types
+* Operators
+* Control flow (if-else, switch)
+* Functions
+* Loops
+* Input and output
+* `static` and `readonly`
+* `const` keyword
+* Properties
+* Strings and string functions
+
+---
+
+## Requirements (Tasks)
+
+### Step 1: Setup Account Class
+
+* Create an `Account` class with the following properties:
+
+  * `AccountNumber` (string)
+  * `Name` (string)
+  * `Balance` (double)
+
+### Step 2: Setup Bank Class
+
+* Create a `Bank` class with:
+
+  * A `readonly` bank name
+  * A `const` double for `MinBalance` (e.g., ₹100.0)
+  * A static user account (hardcoded with initial values)
+
+### Step 3: Implement Login Function
+
+* Ask user to input account number.
+* Match it (case-insensitive) with the stored account number.
+* If it matches, continue to the menu.
+
+### Step 4: Main Menu
+
+Loop until the user exits. Provide the following menu options:
+
+1. View Account Details
+2. Deposit Amount
+3. Withdraw Amount
+4. Exit
+
+Use `switch` or `if-else` to control the flow based on user input.
+
+### Step 5: Deposit Function
+
+* Ask the user for an amount to deposit.
+* Add it to the balance if valid (> 0).
+* Display updated balance.
+
+### Step 6: Withdraw Function
+
+* Ask the user for an amount to withdraw.
+* Check if:
+
+  * Amount is valid (> 0)
+  * Balance will not fall below `MinBalance`
+* If valid, subtract from balance.
+* Display updated balance.
+
+### Step 7: View Account Details
+
+* Show account number, name, balance, and bank name.
+
+---
+
+## Constraints
+
+* Only one account exists (hardcoded).
+* Minimum balance should not go below ₹100.
+* Withdrawals must validate sufficient balance.
+* Use proper string functions for comparisons and trimming input.
+
+---
+
+## Example Input/Output
+
+```
+==== Welcome to CodeBank ====
+Enter your account number to login: 12345
+
+1. View Account
+2. Deposit
+3. Withdraw
+4. Exit
+Select option: 1
+
+--- Account Details ---
+Bank Name     : CodeBank
+Account Number: 12345
+Name          : John Doe
+Balance       : ₹500
+
+Select option: 2
+Enter amount to deposit: 200
+Deposited ₹200. New Balance: ₹700
+```
+
+---
+
+## Learning Objectives
+
+By completing this challenge, the user will:
+
+* Understand how to structure a basic console application
+* Learn object-oriented design with classes and properties
+* Use control flow and loops effectively
+* Work with `const`, `readonly`, and `static`
+* Improve user input validation and string handling
+
+---
+
+## Bonus Tasks (Optional)
+
+* Add a PIN/password check on login
+* Track multiple accounts using a list
+* Store transaction history
+* Load/save account data to/from a file

@@ -1,0 +1,14 @@
+T:\02.GIT REPO\04.C-SHARP\0.TASK\TASK-1\SimpleBankingApp\SimpleBankingApp\bin\Debug\netcoreapp3.1\SimpleBankingApp.exe
+T:\02.GIT REPO\04.C-SHARP\0.TASK\TASK-1\SimpleBankingApp\SimpleBankingApp\bin\Debug\netcoreapp3.1\SimpleBankingApp.deps.json
+T:\02.GIT REPO\04.C-SHARP\0.TASK\TASK-1\SimpleBankingApp\SimpleBankingApp\bin\Debug\netcoreapp3.1\SimpleBankingApp.runtimeconfig.json
+T:\02.GIT REPO\04.C-SHARP\0.TASK\TASK-1\SimpleBankingApp\SimpleBankingApp\bin\Debug\netcoreapp3.1\SimpleBankingApp.runtimeconfig.dev.json
+T:\02.GIT REPO\04.C-SHARP\0.TASK\TASK-1\SimpleBankingApp\SimpleBankingApp\bin\Debug\netcoreapp3.1\SimpleBankingApp.dll
+T:\02.GIT REPO\04.C-SHARP\0.TASK\TASK-1\SimpleBankingApp\SimpleBankingApp\bin\Debug\netcoreapp3.1\SimpleBankingApp.pdb
+T:\02.GIT REPO\04.C-SHARP\0.TASK\TASK-1\SimpleBankingApp\SimpleBankingApp\obj\Debug\netcoreapp3.1\SimpleBankingApp.csproj.AssemblyReference.cache
+T:\02.GIT REPO\04.C-SHARP\0.TASK\TASK-1\SimpleBankingApp\SimpleBankingApp\obj\Debug\netcoreapp3.1\SimpleBankingApp.GeneratedMSBuildEditorConfig.editorconfig
+T:\02.GIT REPO\04.C-SHARP\0.TASK\TASK-1\SimpleBankingApp\SimpleBankingApp\obj\Debug\netcoreapp3.1\SimpleBankingApp.AssemblyInfoInputs.cache
+T:\02.GIT REPO\04.C-SHARP\0.TASK\TASK-1\SimpleBankingApp\SimpleBankingApp\obj\Debug\netcoreapp3.1\SimpleBankingApp.AssemblyInfo.cs
+T:\02.GIT REPO\04.C-SHARP\0.TASK\TASK-1\SimpleBankingApp\SimpleBankingApp\obj\Debug\netcoreapp3.1\SimpleBankingApp.csproj.CoreCompileInputs.cache
+T:\02.GIT REPO\04.C-SHARP\0.TASK\TASK-1\SimpleBankingApp\SimpleBankingApp\obj\Debug\netcoreapp3.1\SimpleBankingApp.dll
+T:\02.GIT REPO\04.C-SHARP\0.TASK\TASK-1\SimpleBankingApp\SimpleBankingApp\obj\Debug\netcoreapp3.1\SimpleBankingApp.pdb
+T:\02.GIT REPO\04.C-SHARP\0.TASK\TASK-1\SimpleBankingApp\SimpleBankingApp\obj\Debug\netcoreapp3.1\SimpleBankingApp.genruntimeconfig.cache
