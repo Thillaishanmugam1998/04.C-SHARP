@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kDEm9/W+kcMreU5gGNCzcJmL1pawqc0iTh/4JtnioupxSSxksdgE0Rk3K5ENwSKax14eCHwg0ssOsx4rLbM6Pg==",
+  "success": true,
+  "projectFilePath": "T:\\02.GIT REPO\\04.C-SHARP\\3.OOPS\\3.DESTRUCTOR\\DestructorExamples\\Example_1_Dispose\\Example_1_Dispose.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThillaiShanmugam1714\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
